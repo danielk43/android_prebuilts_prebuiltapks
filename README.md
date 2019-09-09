@@ -19,7 +19,6 @@ The included APKs are:
    * FDroid Privileged Extension: a FDroid extension to ease the installation/removal of apps
    * MozillaNlpBackend: UnifiedNlp (no GAPPS) backend that uses Mozilla Location Services
    * NominatimNlpBackend: UnifiedNlp (no GAPPS) backend that uses MapQuest's Nominatim service (based on OpenStreetMap) for geocoding
-   * OsmAndPlus: OsmAnd+ (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data
    * Privacy Browser: a web browser that respects your privacy
    * Termux: combines powerful terminal emulation with an extensive Linux package collection
    * additional_repos.xmly: a simple package to include the [microG FDroid repository](https://microg.org/fdroid.html) in the ROM (requires FDroid >= 1.5)
