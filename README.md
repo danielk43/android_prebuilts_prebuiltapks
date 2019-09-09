@@ -17,6 +17,7 @@ The included APKs are:
    * DejaVuNlpBackend: UnifiedNlp backend that uses locally acquired WLAN/Wi-Fi AP and mobile/cellular tower data to resolve user location
    * FDroid: a catalogue of FOSS (Free and Open Source Software) applications for the Android platform
    * FDroid Privileged Extension: a FDroid extension to ease the installation/removal of apps
+   * NewPipe: a lightweight YouTube frontend without proprietary APIs or Google Play Services
    * NominatimNlpBackend: UnifiedNlp (no GAPPS) backend that uses MapQuest's Nominatim service (based on OpenStreetMap) for geocoding
    * Privacy Browser: a web browser that respects your privacy
    * SAI: app for installing split APKs, it has both rootless and rooted installation methods
