@@ -18,7 +18,6 @@ The included APKs are:
    * FDroid: a catalogue of FOSS (Free and Open Source Software) applications for the Android platform
    * FDroid Privileged Extension: a FDroid extension to ease the installation/removal of apps
    * NominatimNlpBackend: UnifiedNlp (no GAPPS) backend that uses MapQuest's Nominatim service (based on OpenStreetMap) for geocoding
-   * OsmAndPlus: OsmAnd+ (OSM Automated Navigation Directions) is a map and navigation application with access to the free, worldwide, and high-quality OpenStreetMap (OSM) data
    * Privacy Browser: a web browser that respects your privacy
    * SAI: app for installing split APKs, it has both rootless and rooted installation methods
    * Termux: combines powerful terminal emulation with an extensive Linux package collection
