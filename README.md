@@ -21,7 +21,6 @@ The included APKs are:
    * NominatimNlpBackend: UnifiedNlp (no GAPPS) backend that uses MapQuest's Nominatim service (based on OpenStreetMap) for geocoding
    * Privacy Browser: a web browser that respects your privacy
    * SAI: app for installing split APKs, it has both rootless and rooted installation methods
-   * Termux: combines powerful terminal emulation with an extensive Linux package collection
    * additional_repos.xmly: a simple package to include the [microG FDroid repository](https://microg.org/fdroid.html) in the ROM (requires FDroid >= 1.5)
  * microG packages (binaries sourced from [here](https://microg.org/download.html) and [here](https://github.com/microg/android_frameworks_mapsv1))
    * GmsCore: the main component of microG, a FOSS reimplementation of the Google Play Services (requires GsfProxy and FakeStore for full functionality)
