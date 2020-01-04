@@ -18,7 +18,6 @@ The included APKs are:
    * FDroid Privileged Extension: a FDroid extension to ease the installation/removal of apps
    * NewPipe: a lightweight YouTube frontend without proprietary APIs or Google Play Services
    * NominatimNlpBackend: UnifiedNlp (no GAPPS) backend that uses MapQuest's Nominatim service (based on OpenStreetMap) for geocoding
-   * SAI: app for installing split APKs, it has both rootless and rooted installation methods
    * additional_repos.xmly: a simple package to include the [microG FDroid repository](https://microg.org/fdroid.html) in the ROM (requires FDroid >= 1.5)
  * microG packages (binaries sourced from [here](https://microg.org/download.html) and [here](https://github.com/microg/android_frameworks_mapsv1))
    * GmsCore: the main component of microG, a FOSS reimplementation of the Google Play Services (requires GsfProxy and FakeStore for full functionality)
@@ -26,7 +25,7 @@ The included APKs are:
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
  * Bromite packages (binaries sourced from [here](https://github.com/bromite/bromite/releases)) 
-   * Bromite is Chromium plus ad blocking and other privacy-related features
+   * Bromite: Chromium plus ad blocking and other privacy-related features
  * EdXposed packages (binaries sourced from [here](https://github.com/ElderDrivers/EdXposedManager/releases))
    * EdXposedManager: companion Android application for EdXposed
  * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
