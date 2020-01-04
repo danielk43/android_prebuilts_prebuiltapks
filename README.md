@@ -12,7 +12,6 @@ example in vendor/lineage/config/common.mk).
 
 The included APKs are:
  * FDroid packages (binaries sourced from [here](https://f-droid.org/packages/org.fdroid.fdroid/) and [here](https://f-droid.org/packages/org.fdroid.fdroid.privileged/))
-   * Bromite: Bromite is Chromium plus ad blocking and other privacy-related features
    * ClassyShark3xodus: checks apps for code signatures of known trackers (provided by Exodus)
    * DejaVuNlpBackend: UnifiedNlp backend that uses locally acquired WLAN/Wi-Fi AP and mobile/cellular tower data to resolve user location
    * FDroid: a catalogue of FOSS (Free and Open Source Software) applications for the Android platform
@@ -26,8 +25,10 @@ The included APKs are:
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
- * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
-   * OpenWeatherProvider: "Open Weather Map" provider for the LineageOS v16 weather service
+ * Bromite packages (binaries sourced from [here](https://github.com/bromite/bromite/releases)) 
+   * Bromite is Chromium plus ad blocking and other privacy-related features
  * EdXposed packages (binaries sourced from [here](https://github.com/ElderDrivers/EdXposedManager/releases))
    * EdXposedManager: companion Android application for EdXposed
+ * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
+   * OpenWeatherProvider: "Open Weather Map" provider for the LineageOS v16 weather service
 
