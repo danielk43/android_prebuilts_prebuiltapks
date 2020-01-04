@@ -12,14 +12,13 @@ example in vendor/lineage/config/common.mk).
 
 The included APKs are:
  * FDroid packages (binaries sourced from [here](https://f-droid.org/packages/org.fdroid.fdroid/) and [here](https://f-droid.org/packages/org.fdroid.fdroid.privileged/))
-   * Busybox: provides a fairly complete environment for any small or embedded system
+   * Bromite: Bromite is Chromium plus ad blocking and other privacy-related features
    * ClassyShark3xodus: checks apps for code signatures of known trackers (provided by Exodus)
    * DejaVuNlpBackend: UnifiedNlp backend that uses locally acquired WLAN/Wi-Fi AP and mobile/cellular tower data to resolve user location
    * FDroid: a catalogue of FOSS (Free and Open Source Software) applications for the Android platform
    * FDroid Privileged Extension: a FDroid extension to ease the installation/removal of apps
    * NewPipe: a lightweight YouTube frontend without proprietary APIs or Google Play Services
    * NominatimNlpBackend: UnifiedNlp (no GAPPS) backend that uses MapQuest's Nominatim service (based on OpenStreetMap) for geocoding
-   * Privacy Browser: a web browser that respects your privacy
    * SAI: app for installing split APKs, it has both rootless and rooted installation methods
    * additional_repos.xmly: a simple package to include the [microG FDroid repository](https://microg.org/fdroid.html) in the ROM (requires FDroid >= 1.5)
  * microG packages (binaries sourced from [here](https://microg.org/download.html) and [here](https://github.com/microg/android_frameworks_mapsv1))
