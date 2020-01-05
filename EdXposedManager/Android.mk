@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE := EdXposedManager
-LOCAL_SRC_FILES := EdXposedManager-org.meowcat.edxposed.manager-4.5.2-452-release.apk
+LOCAL_SRC_FILES := EdXposedManager-4.5.3-45300-org.meowcat.edxposed.manager-release.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
 LOCAL_CERTIFICATE := PRESIGNED
