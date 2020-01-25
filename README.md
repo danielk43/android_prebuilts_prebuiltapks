@@ -16,7 +16,7 @@ The included APKs are:
    * FDroid: a catalogue of FOSS (Free and Open Source Software) applications for the Android platform
    * FDroid Privileged Extension: a FDroid extension to ease the installation/removal of apps
    * NominatimNlpBackend: UnifiedNlp (no GAPPS) backend that uses MapQuest's Nominatim service (based on OpenStreetMap) for geocoding
-   * additional_repos.xmly: a simple package to include the [microG FDroid repository](https://microg.org/fdroid.html) in the ROM (requires FDroid >= 1.5)
+   * additional_repos.xml: a simple package to include the [microG FDroid repository](https://microg.org/fdroid.html) in the ROM (requires FDroid >= 1.5)
  * microG packages (binaries sourced from [here](https://microg.org/download.html) and [here](https://github.com/microg/android_frameworks_mapsv1))
    * GmsCore: the main component of microG, a FOSS reimplementation of the Google Play Services (requires GsfProxy and FakeStore for full functionality)
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
@@ -25,5 +25,5 @@ The included APKs are:
  * AuroraServices packages (binaries sourced from [here](https://gitlab.com/AuroraOSS/AuroraServices))
    * AuroraServices: a system / root application that integrates with the Aurora line of products
  * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
-   * OpenWeatherProvider: "Open Weather Map" provider for the LineageOS v16 weather service
+   * OpenWeatherProvider: Open Weather Map provider for the LineageOS 16 weather service
 
