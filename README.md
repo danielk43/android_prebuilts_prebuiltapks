@@ -8,7 +8,7 @@ corresponding developers, except for:
  * additional_repos.xml, as it is just the microG FDroid repository XML file, plus additional repos
 
 To include them in your build just add their name in CUSTOM_PACKAGES (for
-example in vendor/lineage/config/common.mk).
+example in vendor/lineage/config/common_mobile.mk).
 
 The included APKs are:
  * FDroid packages (binaries sourced from [here](https://f-droid.org/packages/org.fdroid.fdroid/) and [here](https://f-droid.org/packages/org.fdroid.fdroid.privileged/))
