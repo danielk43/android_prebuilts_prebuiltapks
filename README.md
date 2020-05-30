@@ -23,6 +23,7 @@ The included APKs are:
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
  * AuroraOSS packages (binaries sourced from [here](https://gitlab.com/AuroraOSS/AuroraStore) and [here](https://gitlab.com/AuroraOSS/AuroraServices))
+   * AuroraDroid: an alternate to the FDroid app store
    * AuroraStore: an alternate to Google's Play Store
    * AuroraServices: a system / root application that integrates with the Aurora line of products
  * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
