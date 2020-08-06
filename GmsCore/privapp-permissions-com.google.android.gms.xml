@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- microG Installer -->
 <permissions>
     <privapp-permissions package="com.google.android.gms">
-        <permission name="android.permission.FAKE_PACKAGE_SIGNATURE"/>
         <permission name="android.permission.INSTALL_LOCATION_PROVIDER"/>
         <permission name="android.permission.CHANGE_DEVICE_IDLE_TEMP_WHITELIST"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.FAKE_PACKAGE_SIGNATURE"/>
+        <permission name="android.permission.UPDATE_APP_OPS_STATS" />
+        <permission name="android.permission.READ_PHONE_STATE" />
+        <permission name="android.permission.ACCESS_NETWORK_STATE" />
+        <permission name="android.permission.INTERNET" />
+        <permission name="android.permission.AUTHENTICATE_ACCOUNTS" />
+        <permission name="android.permission.GET_ACCOUNTS" />
+        <permission name="android.permission.MANAGE_ACCOUNTS" />
+        <permission name="android.permission.USE_CREDENTIALS" />
+        <permission name="android.permission.WAKE_LOCK" />
+        <permission name="android.permission.READ_SYNC_SETTINGS" />
+        <permission name="android.permission.WRITE_SYNC_SETTINGS" />
+        <permission name="android.permission.READ_SYNC_STATS" />
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <permission name="android.permission.READ_EXTERNAL_STORAGE" />
+        <permission name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
+        <permission name="android.permission.FOREGROUND_SERVICE" />
+        <permission name="android.permission.ACCESS_WIFI_STATE" />
+        <permission name="android.permission.ACCESS_COARSE_UPDATES" />
+    </privapp-permissions>
+    <privapp-permissions package="com.google.android.gsf">
+        <permission name="android.permission.FAKE_PACKAGE_SIGNATURE"/>
+    </privapp-permissions>
+    <privapp-permissions package="org.microg.gms.droidguard">
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE" />
     </privapp-permissions>
 </permissions>
