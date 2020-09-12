@@ -26,5 +26,3 @@ The included APKs are:
    * AuroraDroid: an alternate to the FDroid app store
    * AuroraStore: an alternate to Google's Play Store
    * AuroraServices: a system / root application that integrates with the Aurora line of products
- * LineageOS packages (binaries sourced from [here](https://download.lineageos.org/extras))
-   * OpenWeatherProvider: Open Weather Map provider for the LineageOS 16 weather service
